@@ -23,3 +23,5 @@ This theme is loosely based on the Flatly Twitter Bootstrap theme ([http://boots
     - Three column layout: Left and right side menus, content in the middle
 * Possibly change forum icons (New post/Locked/Sticky/etc...)
 * Possibly alter/replace Bootstrap badges (css/colors/fonts)
+
+If you have any questions or suggestions please contact me at <themes@jbwebware.com>
