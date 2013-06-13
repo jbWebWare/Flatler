@@ -1,0 +1,45 @@
+body {
+    padding-bottom: 0px;
+}
+
+@media (min-width: 1000px){ 
+    
+    body {
+        padding-top: 50px;
+    }
+
+}
+
+h2 a {
+    color: rgb(44, 62, 80);
+}
+
+.hero-unit {
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.container, .navbar-static-top .container, .navbar-fixed-top .container, .navbar-fixed-bottom .container {
+    width: 1170px;
+}
+
+.grey-background {
+    background-color: #DDE4E6;
+}
+
+header {
+    padding: 20px;
+}
+
+footer {
+    padding: 20px;
+}
+
+.make-margin {
+    margin: 20px;
+}
+
+.make-padding {
+    padding: 20px;
+}
+

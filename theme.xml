@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Theme name="Flatler" lan="LAN_THEME_1" version="1.0" date="2013-06-08" compatibility="2.0" >
+	<author name="Burnsy" url="http://www.jbwebware.com" />
+	<summary lan="LAN_THEME_2">My First Bootstrap Theme</summary>
+	<description lan="LAN_THEME_3">This is my first attempt at creating a Bootstrap theme. This is loosely based on the Flatly Twitter Bootstrap theme (http://bootswatch.com/flatly)</description>
+	<category>generic</category>
+	<keywords>
+		<word>flatly</word>
+		<word>flatler</word>
+		<word>jbwebware</word>
+		<word>bootstrap</word>
+	</keywords>
+	<copyright>© 2006 - 2013 jbWebWare.com</copyright>
+	<screenshots>
+		<image>preview.jpg</image>
+		<image>fullpreview.jpg</image>
+	</screenshots>
+	<layouts>
+		<layout name='default' title='Default' default='true' />
+	</layouts>
+</e107Theme>
